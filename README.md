@@ -1,2 +1,0 @@
-# videoclub
-CRUD con laravel
